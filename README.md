@@ -39,11 +39,11 @@ Snake-Water-Gun-Game/
 └── README.md
 ▶️ How to Run
 1. Clone the repository
-git clone https://github.com/your-username/Snake-Water-Gun.git
+git clone https://github.com/swanandpande05/SNAKE-WATER-GUN-GAME.git
 2. Navigate to the project folder
 cd Snake-Water-Gun
 3. Run the program
-python snake_water_gun.py
+main.py
 💻 Example Output
 ========================================
        SNAKE - WATER - GUN
